@@ -14,9 +14,6 @@
   /* To Use Variables Do This : var(--white) */
 }
 
-body {
-  display: none;
-}
 
 a {
   text-decoration: none;
