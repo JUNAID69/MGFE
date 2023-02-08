@@ -6,8 +6,8 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Payment</title>
-		<link rel="stylesheet" href="{% static '/css/payments.css' %}" />
-		<link rel="stylesheet" href="{% static '/css/styles.css' %}" />
+		<link rel="stylesheet" href="{% static '/css/payments1.css' %}" />
+		<link rel="stylesheet" href="{% static '/css/styles1.css' %}" />
 		<link
 		rel="stylesheet"
 		href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -15,7 +15,7 @@
 	</head>
 	<body class="payments">
 		<header>
-		<img class="logo" src="{% static '/images/Logo/cover.png' %}" alt="" />
+   <title>MGFE | Meat and Greet</title>
 		</header>
 
 		<div class="heading">
@@ -68,9 +68,8 @@
 				data-currency="INR"
 				data-order_id="{{payment.id}}"
 				data-buttontext="PAY"
-				data-name="Bar Stock Exchange"
+				data-name="Meat and Greeat"
 				data-description="Payment Portal"
-				data-image="{% static '/images/Logo/cover.png' %}"
 				data-prefill.name="{{ user }}"
 				data-prefill.email="{{ email }}"
 				data-theme.color="#0077b6"
