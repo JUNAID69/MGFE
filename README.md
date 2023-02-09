@@ -10,6 +10,8 @@ A Web-App for Interactive and Innovative way of Ordering Food/Drinks in a Restau
 ![image](https://user-images.githubusercontent.com/72696677/147385238-ad4cd89f-69d6-4547-b1b7-5df01b5276ec.png)
 
 
+- [Abstract](#abstract)
+- [Introduction](#Introduction)
 - [Objective](#objective)
 - [Features](#features)
 - [Tools and Technology Used](#tools)
@@ -25,7 +27,6 @@ A Web-App for Interactive and Innovative way of Ordering Food/Drinks in a Restau
 
 ## Abstract
 
-ABSTRACT
 + Nowadays we have to roam around a lot to get a type of environment to fit in. We binge 
 search on the internet for some places which can be flexible with the variety and quality 
 of food we like to have.
