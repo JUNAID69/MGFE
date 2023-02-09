@@ -1,7 +1,7 @@
 
 # Restaurant/Cafe/Bar Order Management App
 
-![image](https://user-images.githubusercontent.com/72696677/147384776-f1294f06-537e-4f1a-a5e8-d2985f769227.png)
+![image](https://C:\Users\samri\Downloads\Whatsapp Image 2022-09-22 at 3.41.41 PM(2).png)
 
 A Web-App for Interactive and Innovative way of Ordering Food/Drinks in a Restaurant.
 
