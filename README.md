@@ -20,6 +20,22 @@ A Web-App for Interactive and Innovative way of Ordering Food/Drinks in a Restau
 - [Feature Request](#feature-request)
 - [License](#license)
 
+
+<a id = "abstract"></a>
+
+## Abstract
+
+ABSTRACT
++ Nowadays we have to roam around a lot to get a type of environment to fit in. We binge 
+search on the internet for some places which can be flexible with the variety and quality 
+of food we like to have.
++ This project titled “Meat and Greet Food Exchange” will be a software-based system that 
+will make it more flexible for the working class to make it more to grab some 
+entertainment with easily available lavish cuisines.
++ Making it more convenient for the customers with beautiful surroundings and an exciting 
+system makes meat and greet a happy-to-go place.
+
+
 <a id = "objective"></a>
 
 ## Objective
@@ -27,6 +43,26 @@ A Web-App for Interactive and Innovative way of Ordering Food/Drinks in a Restau
 + Trying to create a best End-to-End Solution for a Food/Drinks Ordering App which will be of a great use after Covid19 Pandemic where customers fill unsafe while using a HardCopy Menu.
 + Users no longer have to call a Waiter for Ordering or for doing a Payment.
 + Making the Ordering Drinks Task very Interactive and Innovative by Introducing Dynamic Pricing of Drinks(Prices of drinks change while ordering depending on our Algorithm).
+
+<a id = "Introduction"></a>
+
+## Introduction 
+
++ The Meat and Greet Food Exchange is a dine-in ordering web application for mobile 
+devices which helps people to order food or drinks in a club/restaurant. This software 
+will be designed to increase restaurant customer interaction and not make them wait for
+the waiter to take their order. 
++ This software will be implementing a stock market theme for ordering food as well as drinks. As in a stock market, more demand means higher 
+prices similarly, the software should increase the price of the drink based on its demand.
++ TBSE will “trade” * in food and drinks whilst making sure you have a great exchange 
+(of conversation, of course!). Starting with all prices starting at retail prices, the prices of 
+your favorite food rise in direct proportion to its consumption over a period of time. 
++ Every increasing peg/pint/shot/glass ordered by a patron increases its value margin, to be 
+brought down once again if time is on your side (if orders for the same drink decrease 
+over a period of time). Before you gasp in worry, our circuit breaker system will ensure 
+that you get the best bang for your buck always (whether your favourite stock is high or 
+low).
+
 
 <a id = "features"></a>
 ## Project Background
