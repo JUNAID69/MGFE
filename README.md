@@ -63,7 +63,7 @@ Latest Stable version of Python should be installed, you can download from [here
 
 1. Open Terminal and Clone the Repo
 ```
-git clone https://github.com/JUNAID69/MGFE/Intern-admin-collaboration.git
+git clone https://github.com/JUNAID69/MGFE/.git
 ```
 2. Go inside the Project Directory using <b> cd </b> and install the dependencies using the command:
 
