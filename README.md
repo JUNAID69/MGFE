@@ -1,5 +1,5 @@
 
-# Restaurant/Cafe/Bar Order Management App 
+# Restaurant/Cafe/Bar Order Management App
 
 ![image](https://user-images.githubusercontent.com/72696677/147384776-f1294f06-537e-4f1a-a5e8-d2985f769227.png)
 
@@ -63,7 +63,7 @@ Latest Stable version of Python should be installed, you can download from [here
 
 1. Open Terminal and Clone the Repo
 ```
-git clone https://github.com/dans77777/Intern-admin-collaboration.git
+git clone https://github.com/JUNAID69/MGFE/Intern-admin-collaboration.git
 ```
 2. Go inside the Project Directory using <b> cd </b> and install the dependencies using the command:
 
@@ -92,19 +92,6 @@ Your Application Server would be live and you can access the App using url - "ht
 
 <div align="center">
 
-User Sign Up            |  Home Page
-:-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/72696677/147385255-78a298c0-62df-4f30-a651-463dfe3fbb2c.png)   |  ![image](https://user-images.githubusercontent.com/72696677/147385271-a7d78a9a-86ca-4600-ad7c-1f72e4958f01.png)
-
-
-
-Ordered Items Page          |  Bar Menu
-:-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/72696677/147385311-d7518305-809f-410e-8654-99aa2368d16b.png)  |  ![image](https://user-images.githubusercontent.com/72696677/147385284-6b468631-cc66-4cfb-9d06-48bb523898c5.png)
-
-Food Menu <br/>
-![image](https://user-images.githubusercontent.com/72696677/147385292-ae0ee4b9-3ce6-4806-99ec-b52673380c8d.png)  
-
 </div>
  
 <a id = "tables"></a>
@@ -123,14 +110,13 @@ Food Menu <br/>
 
 ## 🐛 Bug Reporting
 
-Feel free to [open an issue](https://github.com/Vaibhav-Patel19/BSE/issues) on GitHub if you find any bug.
+Feel free to [open an issue](https://github.com/JUNAID69/MGFE/BSE/issues) on GitHub if you find any bug.
 
 <a id="feature-request"></a>
 
 ## ⭐ Feature Request
 
-- Feel free to [Open an issue](https://github.com/Vaibhav-Patel19/BSE/issues) on GitHub to request any additional features you might need for your use case.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhavpatel19/). I'd love ❤️️ to hear where you are using this library.
+- Feel free to [Open an issue](https://github.com/JUNAID69/MGFE/BSE/issues) on GitHub to request any additional features you might need for your use case.
 
 <a id= "feature-request"></a>
 
@@ -139,6 +125,6 @@ Feel free to [open an issue](https://github.com/Vaibhav-Patel19/BSE/issues) on G
 
 ## 📜 License
 
-This software is open source, licensed under the [MIT License](https://github.com/Vaibhav-Patel19/BSE/blob/master/LICENSE).
+This software is open source, licensed under the [MIT License](https://github.com/JUNAID69/MGFE/BSE/blob/master/LICENSE).
 
 <!-- # https://django-allauth.readthedocs.io/en/latest/installation.html -->
