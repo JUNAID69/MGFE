@@ -125,9 +125,6 @@ Your Application Server would be live and you can access the App using url - "ht
 - Database - sqlite
 - Other Technologies - jQuery, Ajax
 
-<a id = "screenshots"></a>
-## Few Screenshots
-
 <div align="center">
 
 </div>
