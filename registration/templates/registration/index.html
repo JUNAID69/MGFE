@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="{% static '/css/styles1.css' %}">
+    <link rel="stylesheet" href="{% static '/css/styles3.css' %}">
     <link rel="stylesheet" href="{% static '/css/registration1.css' %}">
 
     <title>Registration</title>
@@ -51,7 +51,7 @@
 
     <p class="login">Already have an account ? <a href="{% url 'loginPage' %}">Login Here</a> </p>
 
-    <a href="{% provider_login_url 'google' %}"> <img class="google" src="{% static '/images/google.png' %}" alt=""></a>
+    <a class="google-form" href="{% provider_login_url 'google' %}"> <img class="google" src="{% static '/images/google.png' %}" alt=""></a>
     
     <script>
         var form_fields = document.getElementsByTagName('input')
