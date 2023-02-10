@@ -1,7 +1,7 @@
 
 # Restaurant/Cafe/Bar Order Management App
 
-![meat and greet (rectangle)](https://user-images.githubusercontent.com/124381004/218170187-c81a9acf-c95c-4b30-a097-2ddbc0e96fb8.png)
+![meat and greet (rectangle big)](https://user-images.githubusercontent.com/124381004/218172379-a0320a01-5f2c-4ceb-a8ed-98eef19c2359.png)
 
 
 A Web-App for Interactive and Innovative way of Ordering Food/Drinks in a Restaurant.
