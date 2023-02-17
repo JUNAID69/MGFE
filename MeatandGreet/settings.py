@@ -9,7 +9,8 @@ https://docs.djangoproject.com/en/3.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
-# user-Vaibhav, password-vaibhav
+
+# user Qwerty , password- heavy123
 from pathlib import Path
 import os
 
@@ -62,8 +63,9 @@ SITE_ID = 1
 
 LOGIN_REDIRECT_URL = '/home'
 
-RAZOR_KEY_ID = "rzp_test_ktKHbW267TNArC"
-RAZOR_KEY_SECRET = "OBcqpAYQbFtXjP7TJ2QQfvNT"
+RAZOR_KEY_ID = "rzp_test_nQDmdsohAJiDC9"
+RAZOR_KEY_SECRET = "dwFPdb6yZ8KoHSMug3Iz9RNV" \
+                   ""
 
 # For Google Sign Up
 SOCIALACCOUNT_PROVIDERS = {

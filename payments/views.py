@@ -17,7 +17,7 @@ def PaymentGateway(request):
 
     if request.method == 'POST':
 
-        client = razorpay.Client(auth=("rzp_test_ktKHbW267TNArC", "OBcqpAYQbFtXjP7TJ2QQfvNT"))
+        client = razorpay.Client(auth=("rzp_test_nQDmdsohAJiDC9", "dwFPdb6yZ8KoHSMug3Iz9RNV"))
 
         DATA = {
             "amount": totalAmount,
@@ -37,7 +37,7 @@ def PaymentGateway(request):
     else:
         pay = Payment.objects.create(user = request.user, total = totalAmount, bill_paid = False)
 
-    # Two amounts because in RajorPay, units are taken in "Paisa", but for displaying 
+    # Two amounts because in RajorPay, units are taken in "Paisa", but for displaying
     # in the App, we are using Ruppee.
     display_amount = totalAmount
     totalAmount = totalAmount * 100
