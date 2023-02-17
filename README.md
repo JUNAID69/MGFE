@@ -1,7 +1,8 @@
 
-# Restaurant/Cafe/Bar Order Management App 
+# Restaurant/Cafe/Bar Order Management App
 
-![image](https://user-images.githubusercontent.com/72696677/147384776-f1294f06-537e-4f1a-a5e8-d2985f769227.png)
+![meat and greet (rectangle big)](https://user-images.githubusercontent.com/124381004/218172379-a0320a01-5f2c-4ceb-a8ed-98eef19c2359.png)
+
 
 A Web-App for Interactive and Innovative way of Ordering Food/Drinks in a Restaurant.
 
@@ -9,6 +10,8 @@ A Web-App for Interactive and Innovative way of Ordering Food/Drinks in a Restau
 ![image](https://user-images.githubusercontent.com/72696677/147385238-ad4cd89f-69d6-4547-b1b7-5df01b5276ec.png)
 
 
+- [Abstract](#abstract)
+- [Introduction](#Introduction)
 - [Objective](#objective)
 - [Features](#features)
 - [Tools and Technology Used](#tools)
@@ -19,6 +22,21 @@ A Web-App for Interactive and Innovative way of Ordering Food/Drinks in a Restau
 - [Feature Request](#feature-request)
 - [License](#license)
 
+
+<a id = "abstract"></a>
+
+## Abstract
+
++ Nowadays we have to roam around a lot to get a type of environment to fit in. We binge 
+search on the internet for some places which can be flexible with the variety and quality 
+of food we like to have.
++ This project titled “Meat and Greet Food Exchange” will be a software-based system that 
+will make it more flexible for the working class to make it more to grab some 
+entertainment with easily available lavish cuisines.
++ Making it more convenient for the customers with beautiful surroundings and an exciting 
+system makes meat and greet a happy-to-go place.
+
+
 <a id = "objective"></a>
 
 ## Objective
@@ -26,6 +44,26 @@ A Web-App for Interactive and Innovative way of Ordering Food/Drinks in a Restau
 + Trying to create a best End-to-End Solution for a Food/Drinks Ordering App which will be of a great use after Covid19 Pandemic where customers fill unsafe while using a HardCopy Menu.
 + Users no longer have to call a Waiter for Ordering or for doing a Payment.
 + Making the Ordering Drinks Task very Interactive and Innovative by Introducing Dynamic Pricing of Drinks(Prices of drinks change while ordering depending on our Algorithm).
+
+<a id = "Introduction"></a>
+
+## Introduction 
+
++ The Meat and Greet Food Exchange is a dine-in ordering web application for mobile 
+devices which helps people to order food or drinks in a club/restaurant. This software 
+will be designed to increase restaurant customer interaction and not make them wait for
+the waiter to take their order. 
++ This software will be implementing a stock market theme for ordering food as well as drinks. As in a stock market, more demand means higher 
+prices similarly, the software should increase the price of the drink based on its demand.
++ TBSE will “trade” * in food and drinks whilst making sure you have a great exchange 
+(of conversation, of course!). Starting with all prices starting at retail prices, the prices of 
+your favorite food rise in direct proportion to its consumption over a period of time. 
++ Every increasing peg/pint/shot/glass ordered by a patron increases its value margin, to be 
+brought down once again if time is on your side (if orders for the same drink decrease 
+over a period of time). Before you gasp in worry, our circuit breaker system will ensure 
+that you get the best bang for your buck always (whether your favourite stock is high or 
+low).
+
 
 <a id = "features"></a>
 ## Project Background
@@ -63,7 +101,7 @@ Latest Stable version of Python should be installed, you can download from [here
 
 1. Open Terminal and Clone the Repo
 ```
-git clone https://github.com/dans77777/Intern-admin-collaboration.git
+git clone https://github.com/JUNAID69/MGFE/.git
 ```
 2. Go inside the Project Directory using <b> cd </b> and install the dependencies using the command:
 
@@ -87,23 +125,7 @@ Your Application Server would be live and you can access the App using url - "ht
 - Database - sqlite
 - Other Technologies - jQuery, Ajax
 
-<a id = "screenshots"></a>
-## Few Screenshots
-
 <div align="center">
-
-User Sign Up            |  Home Page
-:-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/72696677/147385255-78a298c0-62df-4f30-a651-463dfe3fbb2c.png)   |  ![image](https://user-images.githubusercontent.com/72696677/147385271-a7d78a9a-86ca-4600-ad7c-1f72e4958f01.png)
-
-
-
-Ordered Items Page          |  Bar Menu
-:-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/72696677/147385311-d7518305-809f-410e-8654-99aa2368d16b.png)  |  ![image](https://user-images.githubusercontent.com/72696677/147385284-6b468631-cc66-4cfb-9d06-48bb523898c5.png)
-
-Food Menu <br/>
-![image](https://user-images.githubusercontent.com/72696677/147385292-ae0ee4b9-3ce6-4806-99ec-b52673380c8d.png)  
 
 </div>
  
@@ -123,14 +145,13 @@ Food Menu <br/>
 
 ## 🐛 Bug Reporting
 
-Feel free to [open an issue](https://github.com/Vaibhav-Patel19/BSE/issues) on GitHub if you find any bug.
+Feel free to [open an issue](https://github.com/JUNAID69/MGFE/BSE/issues) on GitHub if you find any bug.
 
 <a id="feature-request"></a>
 
 ## ⭐ Feature Request
 
-- Feel free to [Open an issue](https://github.com/Vaibhav-Patel19/BSE/issues) on GitHub to request any additional features you might need for your use case.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhavpatel19/). I'd love ❤️️ to hear where you are using this library.
+- Feel free to [Open an issue](https://github.com/JUNAID69/MGFE/BSE/issues) on GitHub to request any additional features you might need for your use case.
 
 <a id= "feature-request"></a>
 
@@ -139,6 +160,6 @@ Feel free to [open an issue](https://github.com/Vaibhav-Patel19/BSE/issues) on G
 
 ## 📜 License
 
-This software is open source, licensed under the [MIT License](https://github.com/Vaibhav-Patel19/BSE/blob/master/LICENSE).
+This software is open source, licensed under the [MIT License](https://github.com/JUNAID69/MGFE/BSE/blob/master/LICENSE).
 
 <!-- # https://django-allauth.readthedocs.io/en/latest/installation.html -->
