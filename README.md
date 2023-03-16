@@ -7,9 +7,6 @@
 A Web-App for Interactive and Innovative way of Ordering Food/Drinks in a Restaurant.
 
 
-![image](https://user-images.githubusercontent.com/72696677/147385238-ad4cd89f-69d6-4547-b1b7-5df01b5276ec.png)
-
-
 - [Abstract](#abstract)
 - [Introduction](#Introduction)
 - [Objective](#objective)
